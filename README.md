@@ -1,2 +1,3 @@
 # artcat-scripts
-Scripts used for administering www.artcat.com and its associated applications
+
+Scripts used for administering https://www.artcat.com and its associated applications
