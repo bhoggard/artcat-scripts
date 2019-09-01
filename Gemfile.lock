@@ -774,6 +774,7 @@ GEM
     coderay (1.1.2)
     dnsimple (4.6.0)
       httparty
+    dotenv (2.7.5)
     httparty (0.17.0)
       mime-types (~> 3.0)
       multi_xml (>= 0.5.2)
@@ -793,6 +794,7 @@ PLATFORMS
 DEPENDENCIES
   aws-sdk (~> 3)
   dnsimple (~> 4.0)
+  dotenv
   pry
 
 BUNDLED WITH
